@@ -1,3 +1,3 @@
-function isAnagram(s1, s2) {
+function compressCharacters(str) {
   // TODO: Implement this function
 }

@@ -1,3 +1,3 @@
-function isAnagram(s1, s2) {
+function titleCaseSentence(str) {
   // TODO: Implement this function
 }
